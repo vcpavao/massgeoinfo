@@ -2,11 +2,11 @@ import { ColumnType } from "../types/types";
 
 
 type TableDataProps = {
-    Rank?: number;
+    Rank?: number | string;
     City?: string;
     "Highest Elevation"?: string;
     Type?: string;
-    Elevation?: number;
+    Elevation?: number | string;
     County?: string;
     Landowner?: string;
     CHP?: string;

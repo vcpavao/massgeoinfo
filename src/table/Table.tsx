@@ -7,6 +7,8 @@ import TableBody from "./TableBody";
 import TableHead from "./TableHead";
 
 const Table = () => {
+
+  //@ts-ignore
   const [tableData, setTableData] = useState(tableData1);
 
   const columns = [
