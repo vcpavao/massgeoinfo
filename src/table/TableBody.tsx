@@ -1,14 +1,23 @@
 import { ColumnType } from "../types/types";
 
-type TableDataProps = {
 
+type TableDataProps = {
+    Rank?: number;
+    City?: string;
+    "Highest Elevation"?: string;
+    Type?: string;
+    Elevation?: number;
+    County?: string;
+    Landowner?: string;
+    CHP?: string;
+    Notes?: string;
 }
 
 
-const TableBody = ({ tableData, columns }: { tableData: TableDataProps, columns: ColumnType[]}) => {
+const TableBody = ({ tableData, columns }: { tableData: TableDataProps[], columns: ColumnType[]}) => {
     return (
      <tbody>
-      {tableData.map((data) => {
+      {tableData.map((data: any) => {
        return (
         <tr key={data.id}>
          {columns.map(({ accessor }) => {
