@@ -2,15 +2,27 @@ import { ColumnType } from "../types/types";
 
 
 type TableDataProps = {
-    Rank?: number | string;
-    City?: string;
-    "Highest Elevation"?: string;
-    Type?: string;
-    Elevation?: number | string;
+    elevation_name?: string;
+    city?: string;
+    //Type?: string;
+    elevation_ft?: number | string;
+    TOWN_ID?: number
+    TYPE?: number | string;
+    COUNTYE?: string;
+    FIPS_STCO?: number;
+    POP2010?: number;
+    POP2020?: number;
+    POPCH10_20?: number;
+    _max?: number;
+    latitude?: number;
+    longitude?: number;
+    view?: string;
+    chp: string;
+    elevation_type?: string;
     County?: string;
     Landowner?: string;
     CHP?: string;
-    Notes?: string;
+    Notes?: string;			
 }
 
 //TODO: 
