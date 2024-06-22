@@ -15,7 +15,7 @@
     "latitude": 42.63722222,
     "longitude": -73.16611111,
     "view": "T",
-    "chp": ""
+    "chp": "T"
   },
   {
     "elevation_name": "Mount Greylock slope",
@@ -87,7 +87,7 @@
     "latitude": 42.71083333,
     "longitude": -73.01972222,
     "view": "",
-    "chp": ""
+    "chp": "T"
   },
   {
     "elevation_name": "Crum Hill slope",
@@ -108,7 +108,7 @@
     "chp": ""
   },
   {
-    "elevation_name": "Misery Mountain south slope",
+    "elevation_name": "Misery Mountain South Peak",
     "city": "HANCOCK",
     "elevation_ft": 2667,
     "elevation_type": "slope",
@@ -198,7 +198,7 @@
     "chp": ""
   },
   {
-    "elevation_name": "East Mountain-South Slope",
+    "elevation_name": "East Mountain slope",
     "city": "CLARKSBURG",
     "elevation_ft": 2356,
     "elevation_type": "slope",
@@ -357,7 +357,7 @@
     "latitude": 42.53277778,
     "longitude": -72.95833333,
     "view": "",
-    "chp": ""
+    "chp": "T"
   },
   {
     "elevation_name": "Mount Wilcox",
@@ -378,10 +378,10 @@
     "chp": ""
   },
   {
-    "elevation_name": "Lenox Mountain slope",
+    "elevation_name": "Lenox Mountain",
     "city": "LENOX",
     "elevation_ft": 2126,
-    "elevation_type": "slope",
+    "elevation_type": "peak",
     "TOWN_ID": 152,
     "TYPE": "T",
     "COUNTY": "BERKSHIRE",
@@ -417,7 +417,7 @@
     "elevation_name": "Lenox Mountain slope",
     "city": "RICHMOND",
     "elevation_ft": 2120,
-    "elevation_type": "peak",
+    "elevation_type": "slope",
     "TOWN_ID": 249,
     "TYPE": "T",
     "COUNTY": "BERKSHIRE",
@@ -591,7 +591,7 @@
     "latitude": 42.48944444,
     "longitude": -71.8875,
     "view": "",
-    "chp": ""
+    "chp": "T"
   },
   {
     "elevation_name": "Camp Rest Hill",
@@ -810,7 +810,7 @@
     "chp": ""
   },
   {
-    "elevation_name": "",
+    "elevation_name": "Round Top Hill",
     "city": "CHESTER",
     "elevation_ft": 1798,
     "elevation_type": "peak",
@@ -825,64 +825,10 @@
     "latitude": 42.25555556,
     "longitude": -72.98666667,
     "view": "",
-    "chp": ""
+    "chp": "T"
   },
   {
-    "elevation_name": "",
-    "city": "CHESTER",
-    "elevation_ft": 1798,
-    "elevation_type": "peak",
-    "TOWN_ID": 59,
-    "TYPE": "T",
-    "COUNTY": "HAMPDEN",
-    "FIPS_STCO": 25013,
-    "POP2010": 1337,
-    "POP2020": 1228,
-    "POPCH10_20": -109,
-    "_max": 548,
-    "latitude": 42.25527778,
-    "longitude": -72.98666667,
-    "view": "",
-    "chp": ""
-  },
-  {
-    "elevation_name": "",
-    "city": "CHESTER",
-    "elevation_ft": 1798,
-    "elevation_type": "peak",
-    "TOWN_ID": 59,
-    "TYPE": "T",
-    "COUNTY": "HAMPDEN",
-    "FIPS_STCO": 25013,
-    "POP2010": 1337,
-    "POP2020": 1228,
-    "POPCH10_20": -109,
-    "_max": 548,
-    "latitude": 42.25555556,
-    "longitude": -72.98694444,
-    "view": "",
-    "chp": ""
-  },
-  {
-    "elevation_name": "",
-    "city": "BLANDFORD",
-    "elevation_ft": 1749,
-    "elevation_type": "peak",
-    "TOWN_ID": 33,
-    "TYPE": "T",
-    "COUNTY": "HAMPDEN",
-    "FIPS_STCO": 25013,
-    "POP2010": 1233,
-    "POP2020": 1215,
-    "POPCH10_20": -18,
-    "_max": 533,
-    "latitude": 42.19638889,
-    "longitude": -72.99444444,
-    "view": "",
-    "chp": ""
-  },
-  {
-    "elevation_name": "",
+    "elevation_name": "Walnut Hill",
     "city": "BLANDFORD",
     "elevation_ft": 1749,
     "elevation_type": "peak",
@@ -900,25 +846,7 @@
     "chp": ""
   },
   {
-    "elevation_name": "",
-    "city": "TOLLAND",
-    "elevation_ft": 1726,
-    "elevation_type": "peak",
-    "TOWN_ID": 297,
-    "TYPE": "T",
-    "COUNTY": "HAMPDEN",
-    "FIPS_STCO": 25013,
-    "POP2010": 485,
-    "POP2020": 471,
-    "POPCH10_20": -14,
-    "_max": 526,
-    "latitude": 42.13166667,
-    "longitude": -73.02472222,
-    "view": "",
-    "chp": ""
-  },
-  {
-    "elevation_name": "",
+    "elevation_name": "Lair Mountain",
     "city": "TOLLAND",
     "elevation_ft": 1726,
     "elevation_type": "peak",
@@ -936,25 +864,7 @@
     "chp": ""
   },
   {
-    "elevation_name": "",
-    "city": "TOLLAND",
-    "elevation_ft": 1726,
-    "elevation_type": "peak",
-    "TOWN_ID": 297,
-    "TYPE": "T",
-    "COUNTY": "HAMPDEN",
-    "FIPS_STCO": 25013,
-    "POP2010": 485,
-    "POP2020": 471,
-    "POPCH10_20": -14,
-    "_max": 526,
-    "latitude": 42.13138889,
-    "longitude": -73.02527778,
-    "view": "",
-    "chp": ""
-  },
-  {
-    "elevation_name": "",
+    "elevation_name": "Wachusett Mountain slope",
     "city": "WESTMINSTER",
     "elevation_ft": 1713,
     "elevation_type": "peak",
@@ -972,43 +882,7 @@
     "chp": ""
   },
   {
-    "elevation_name": "",
-    "city": "GOSHEN",
-    "elevation_ft": 1703,
-    "elevation_type": "peak",
-    "TOWN_ID": 108,
-    "TYPE": "T",
-    "COUNTY": "HAMPSHIRE",
-    "FIPS_STCO": 25015,
-    "POP2010": 1054,
-    "POP2020": 960,
-    "POPCH10_20": -94,
-    "_max": 519,
-    "latitude": 42.46388889,
-    "longitude": -72.78333333,
-    "view": "",
-    "chp": ""
-  },
-  {
-    "elevation_name": "",
-    "city": "GOSHEN",
-    "elevation_ft": 1703,
-    "elevation_type": "peak",
-    "TOWN_ID": 108,
-    "TYPE": "T",
-    "COUNTY": "HAMPSHIRE",
-    "FIPS_STCO": 25015,
-    "POP2010": 1054,
-    "POP2020": 960,
-    "POPCH10_20": -94,
-    "_max": 519,
-    "latitude": 42.46444444,
-    "longitude": -72.78333333,
-    "view": "",
-    "chp": ""
-  },
-  {
-    "elevation_name": "",
+    "elevation_name": "Moore Hill",
     "city": "GOSHEN",
     "elevation_ft": 1703,
     "elevation_type": "peak",
@@ -1026,43 +900,7 @@
     "chp": ""
   },
   {
-    "elevation_name": "",
-    "city": "GOSHEN",
-    "elevation_ft": 1703,
-    "elevation_type": "peak",
-    "TOWN_ID": 108,
-    "TYPE": "T",
-    "COUNTY": "HAMPSHIRE",
-    "FIPS_STCO": 25015,
-    "POP2010": 1054,
-    "POP2020": 960,
-    "POPCH10_20": -94,
-    "_max": 519,
-    "latitude": 42.46416667,
-    "longitude": -72.78333333,
-    "view": "",
-    "chp": ""
-  },
-  {
-    "elevation_name": "",
-    "city": "GOSHEN",
-    "elevation_ft": 1703,
-    "elevation_type": "peak",
-    "TOWN_ID": 108,
-    "TYPE": "T",
-    "COUNTY": "HAMPSHIRE",
-    "FIPS_STCO": 25015,
-    "POP2010": 1054,
-    "POP2020": 960,
-    "POPCH10_20": -94,
-    "_max": 519,
-    "latitude": 42.46416667,
-    "longitude": -72.78361111,
-    "view": "",
-    "chp": ""
-  },
-  {
-    "elevation_name": "",
+    "elevation_name": "Mount Grace",
     "city": "WARWICK",
     "elevation_ft": 1631,
     "elevation_type": "peak",
@@ -1742,7 +1580,7 @@
     "_max": 377,
     "latitude": 42.04722222,
     "longitude": -72.34,
-    "view": "TRUE",
+    "view": "T",
     "chp": ""
   },
   {
@@ -2730,27 +2568,9 @@
     "POP2020": 28835,
     "POPCH10_20": 444,
     "_max": 215,
-    "latitude": 42.155,
-    "longitude": -72.685,
-    "view": "T",
-    "chp": ""
-  },
-  {
-    "elevation_name": "Unnamed Point",
-    "city": "WEST SPRINGFIELD",
-    "elevation_ft": 705,
-    "elevation_type": "peak",
-    "TOWN_ID": 325,
-    "TYPE": "TC",
-    "COUNTY": "HAMPDEN",
-    "FIPS_STCO": 25013,
-    "POP2010": 28391,
-    "POP2020": 28835,
-    "POPCH10_20": 444,
-    "_max": 215,
     "latitude": 42.15444444,
     "longitude": -72.685,
-    "view": "",
+    "view": "T",
     "chp": ""
   },
   {
@@ -3638,7 +3458,7 @@
   {
     "elevation_name": "Sunrise Hill",
     "city": "NORTH ATTLEBOROUGH",
-    "elevation_ft": 427,
+    "elevation_ft": 403,
     "elevation_type": "peak",
     "TOWN_ID": 211,
     "TYPE": "TC",
@@ -3648,10 +3468,10 @@
     "POP2020": 30834,
     "POPCH10_20": 2122,
     "_max": 130,
-    "latitude": 42.00138889,
-    "longitude": -71.31611111,
+    "latitude": 42.00193,
+    "longitude": -71.31427,
     "view": "",
-    "chp": ""
+    "chp": "T"
   },
   {
     "elevation_name": "Unnamed Point",
@@ -4770,7 +4590,7 @@
     "chp": ""
   },
   {
-    "elevation_name": "Unnamed Point",
+    "elevation_name": "Marthas Vineyard High Point",
     "city": "CHILMARK",
     "elevation_ft": 289,
     "elevation_type": "peak",
@@ -4785,7 +4605,7 @@
     "latitude": 41.35777778,
     "longitude": -70.73611111,
     "view": "",
-    "chp": ""
+    "chp": "T"
   },
   {
     "elevation_name": "Unnamed Point",
@@ -6150,24 +5970,6 @@
     "POP2020": 15060,
     "POPCH10_20": 1054,
     "_max": 51,
-    "latitude": 41.68,
-    "longitude": -70.49416667,
-    "view": "",
-    "chp": ""
-  },
-  {
-    "elevation_name": "Unnamed Point",
-    "city": "MASHPEE",
-    "elevation_ft": 167,
-    "elevation_type": "peak",
-    "TOWN_ID": 172,
-    "TYPE": "T",
-    "COUNTY": "BARNSTABLE",
-    "FIPS_STCO": 25001,
-    "POP2010": 14006,
-    "POP2020": 15060,
-    "POPCH10_20": 1054,
-    "_max": 51,
     "latitude": 41.68027778,
     "longitude": -70.49388889,
     "view": "",
@@ -6495,7 +6297,7 @@
     "latitude": 41.26694444,
     "longitude": -70.00888889,
     "view": "",
-    "chp": ""
+    "chp": "T"
   },
   {
     "elevation_name": "Unnamed Point",

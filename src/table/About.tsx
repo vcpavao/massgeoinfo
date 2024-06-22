@@ -13,9 +13,9 @@ export default function About() {
         After extracting these coordinates, a manual effort was made to match
         each one to a place name such as 'Mount Greylock'. During this time, the
         points were briefly checked for accuracy. It was determined that the
-        computerized process outlined in the first line had revealed errors in
-        previously-believed municipality high points. If no place name could be
-        determined, the coordinates were assigned 'Unnamed Point.'
+        computerized process outlined in the first sentence had revealed errors
+        in previously-believed municipality high points. If no place name could
+        be determined, the coordinates were assigned 'Unnamed Point.'
       </p>
       <p>
         There were many instances in which the municipalities had multiple
@@ -24,12 +24,12 @@ export default function About() {
         these cases.
       </p>
       <p>
-        It was determined that LIDAR had inaccurate elevation points for a few
-        municipalities Southern Massachusetts. This was confirmed by examining
-        the LIDAR data outside of the project. This project intends to resolve
-        the affected municipalities as soon as possible. In the meantime, the
-        affected municipalities will have a blank name for the elevation high
-        point.
+        It was determined that LIDAR had inaccurate elevation information for a
+        few municipalities Southern Massachusetts. This was confirmed by
+        examining the LIDAR data outside of the project. This project intends to
+        resolve the affected municipalities as soon as possible. In the
+        meantime, the affected municipalities will have a blank name for the
+        elevation high point.
       </p>
       <h2>Disclaimer</h2>
       <p>
