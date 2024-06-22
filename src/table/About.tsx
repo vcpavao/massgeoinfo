@@ -1,8 +1,3 @@
-import about from "../markdown/about.md";
-import { useEffect, useState } from "react";
-import { createRoot } from "react-dom/client";
-import Markdown from "react-markdown";
-
 export default function About() {
   return (
     <div style={{ margin: "0 20%" }}>
